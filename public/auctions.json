@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "price": 2850,
+    "timeLeft": "2 Days left",
+    "image": "https://i.ibb.co.com/tw1f8GLz/photo-1510127034890-ba27508e9f1c.jpg"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "price": 2850,
+    "timeLeft": "2 Days left",
+    "image": "https://i.ibb.co.com/fdjDmDrt/Bid2-min.png"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "price": 2850,
+    "timeLeft": "2 Days left",
+    "image": "https://i.ibb.co.com/B2DJchQk/Bid3-min.png"
+  },
+  {
+    "id": 4,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "price": 2850,
+    "timeLeft": "2 Days left",
+    "image": "https://i.ibb.co/kB7yXjK/gatsby.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "price": 2850,
+    "timeLeft": "2 Days left",
+    "image": "https://i.ibb.co.com/Swrsnn3B/Bid5-min.png"
+  },
+  {
+    "id": 6,
+    "title": "Banksy Original Screen Print",
+    "price": 2850,
+    "timeLeft": "2 Days left",
+    "image": "https://i.ibb.co.com/sry5Xr0/Bid6-min.png"
+  }
+]
